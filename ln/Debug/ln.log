@@ -1,0 +1,4 @@
+﻿  ln.cpp
+d:\programming\os\ln\ln\ln.cpp(17): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  ln.vcxproj -> D:\programming\OS\ln\Debug\ln.exe
+  ln.vcxproj -> D:\programming\OS\ln\Debug\ln.pdb (Full PDB)
